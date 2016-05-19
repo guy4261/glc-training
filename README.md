@@ -1,6 +1,6 @@
 # Dato Training Notebooks
 
-Some notebooks used by in Dato's GraphLab Create Trainings.
+Some notebooks used by [Dato](https://dato.com/) in [GraphLab Create](https://dato.com/download/) training sessions.
 
 ### The Data
 
