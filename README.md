@@ -10,7 +10,7 @@ Python, pip and virtualenv are assumed to be installed.
 
 For others, you can install GraphLab by `pip install -U graphlab-create` or follow the [download and installation instructions here](https://dato.com/download/install-graphlab-create.html). Note that you'll need to [register for a product key](https://dato.com/download/).
 
-**Shadows of Data Science** slides are [available here](https://docs.google.com/a/dato.com/presentation/d/1yqxwJ_yDK91-fbVCBbb593eYrPDAhAc_VUqKWWk4Wak/edit?usp=sharing).
+The **Shadows of Data Science** slides [are available here](https://docs.google.com/a/dato.com/presentation/d/1yqxwJ_yDK91-fbVCBbb593eYrPDAhAc_VUqKWWk4Wak/edit?usp=sharing).
 
 ### The Data
 
@@ -44,3 +44,4 @@ More information about our toolkits can be found in our [API documentations](htt
 
 Users willing to learn GraphLab Create in its entirely should [go through our user guide](https://dato.com/learn/userguide/).
 
+It took us 4 months to reach 40,000 students in our Coursera courese - [Machine Learning Foundations](https://www.coursera.org/learn/ml-foundations). Have a look! The first course in this specialization can be taken for free.
