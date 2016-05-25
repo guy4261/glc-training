@@ -2,6 +2,12 @@
 
 Some notebooks used by [Dato](https://dato.com/) in [GraphLab Create](https://dato.com/download/) training sessions.
 
+For TAU students (and Linux users in general), here are the
+[GLC Installation instructions on Linux](http://pastebin.com/YjaxzZcq).
+Python, pip and virtualenv are assumed to be installed.
+
+**Shadows of Data Science** slides are [available here](https://docs.google.com/a/dato.com/presentation/d/1yqxwJ_yDK91-fbVCBbb593eYrPDAhAc_VUqKWWk4Wak/edit?usp=sharing).
+
 ### The Data
 
 The data for these notebooks consists of a recommender systems dataset which can be downloaded from these addresses. It should be placed in the same folder as the training IPython Notebooks.
