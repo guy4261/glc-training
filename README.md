@@ -2,9 +2,13 @@
 
 Some notebooks used by [Dato](https://dato.com/) in [GraphLab Create](https://dato.com/download/) training sessions.
 
+For your convenience, a shortened link to this repo: [https://goo.gl/ov6ZOq](https://goo.gl/ov6ZOq).
+
 For TAU students (and Linux users in general), here are the
 [GLC Installation instructions on Linux](http://pastebin.com/YjaxzZcq).
 Python, pip and virtualenv are assumed to be installed.
+
+For others, you can install GraphLab by `pip install -U graphlab-create` or follow the [download instructions here](https://dato.com/download/install-graphlab-create.html). Note that you'll need to [register for a product key[(https://dato.com/download/).
 
 **Shadows of Data Science** slides are [available here](https://docs.google.com/a/dato.com/presentation/d/1yqxwJ_yDK91-fbVCBbb593eYrPDAhAc_VUqKWWk4Wak/edit?usp=sharing).
 
